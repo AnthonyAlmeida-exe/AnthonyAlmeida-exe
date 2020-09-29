@@ -1,6 +1,6 @@
 ### Hi there, I'm Anthony Alemida 👋
 
-## I'm a Husband, Father, Developer, and Teacher!
+## I am a developer fascinated by the javascript ecosystem and always looking for the next level!!
 
 - 🔭 I’m currently working on a App!
 - 🌱 I’m currently learning everything 🤣
