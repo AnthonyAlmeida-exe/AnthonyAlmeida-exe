@@ -9,8 +9,8 @@
 - ⚡ Fun fact: I love playing valorant and LoL.
 
 ### Spotify Playing 🎧
-
-[<img src="https://AnthonyAlmeida.vercel.app/api/spotify-playing" alt="AnthonyAlmeida-exe" Spotify Playing" width="350" />]
+  
+  [![Spotify](https://novatorem.anthonyalmeida-exe.vercel.app/api/spotify)]
 
 ### Connect with me:
 
