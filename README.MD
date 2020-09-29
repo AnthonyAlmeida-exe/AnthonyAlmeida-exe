@@ -10,7 +10,9 @@
 
 ### Spotify Playing 🎧
   
-  [![Spotify](https://novatorem.anthonyalmeida-exe.vercel.app/api/spotify)]
+  [![Spotify](https://novatorem.anthonyalmeida-exe.vercel.app/api/spotify)](https://open.spotify.com/user/anthonyl.almeida?si=8ayHTrZBSQyld2fPYRXO7w)
+  
+  
 
 ### Connect with me:
 
