@@ -10,7 +10,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://novatorem.anthonyalmeida-exe.vercel.app/api/spotify-playing" alt="AnthonyAlmeida-exe" Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://AnthonyAlmeida.vercel.app/api/spotify-playing" alt="AnthonyAlmeida-exe" Spotify Playing" width="350" />]
 
 ### Connect with me:
 
