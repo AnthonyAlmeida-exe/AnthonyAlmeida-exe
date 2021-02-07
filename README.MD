@@ -4,9 +4,7 @@
 
 - 🔭 I’m currently working on a App!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: learn cloud development
-- ⚡ Fun fact: I love playing valorant and LoL.
+- 🥅 2021 Goals: learn cloud development.
 
 ### Spotify Playing 🎧
   
