@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on a App!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: learn cloud development.
+
 
 ### Spotify Playing 🎧
   
